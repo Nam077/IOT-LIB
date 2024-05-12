@@ -1,0 +1,18 @@
+{
+    "name": "nam077/Vector",
+    "version": "1.0.0",
+    "description": "Minimal vector implementation for embeded systems like arduino without STL",
+    "keywords": ["vector", "arduino", "embeded", "stl", "container"],
+    "repository": {
+        "type": "git",
+        "url": "https://github.coma/nam077/Vector.git"
+    },
+    "authors": [{
+        "name": "Nam077",
+        "email": "nam077.me@gmail.com",
+        "maintainer": true
+    }],
+    "license": "MIT",
+    "frameworks": "*",
+    "platforms": "*"
+}
